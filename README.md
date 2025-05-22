@@ -65,7 +65,7 @@ Atualmente, a aplicação oferece recomendações para o seguinte perfil:
 
 ## 👩🏻‍💻 Autor
 
-Luisa Lemos 
+[Luisa Lemos](https://github.com/Luisaphysics22) 
 
 ---
 
